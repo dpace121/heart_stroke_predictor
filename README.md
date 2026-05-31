@@ -28,7 +28,7 @@ Machine Learning Models Evaluated
 
 The following classification algorithms were trained and compared:
 
-Logistic Regression ✅
+Logistic Regression 
 K-Nearest Neighbors (KNN)
 Decision Tree Classifier
 Random Forest Classifier
@@ -51,15 +51,4 @@ Maximum Heart Rate
 Exercise-Induced Angina
 Oldpeak (ST Depression)
 ST Slope
-Project Structure
-Heart-Disease-Prediction/
-│
-├── app.py
-├── logistic_regression_heart.pkl
-├── heart_scaler.pkl
-├── heart_columns.pkl
-├── requirements.txt
-├── README.md
-│
-└── dataset/
-    └── heart.csv
+
